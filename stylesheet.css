@@ -1,10 +1,12 @@
 #canvas{
     display: grid;
+    height: 500px;
+    width: 500px;
+    
 }
 
 .box{
-    display: grid;
-    grid-template-columns: 4;
-    size: 5rem;
-    border: 10px black solid;
+    border: 1px black solid;
+    padding: 1rem;
+    
 }
